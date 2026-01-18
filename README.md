@@ -130,6 +130,25 @@ If this code is used, please cite:
 
 **RenSeg: Leveraging Unsupervised Segmentation using Localization and Contour-Guided Quickshift for Renal Calculi and Carcinoma Segmentation and Classification**
 Authors: Farhan Faruk, H. M. Sarwer Alam, Rafeed Rahman, Md. Golam Rabiul Alam, Junho Jeong, Md. Kabir Hossain
-Journal: \[To be updated]
-DOI: \[To be updated]
+Journal: IEEE Journal of Biomedical and Health Informatics
+DOI: 10.1109/JBHI.2025.3629580
+
+Plain text:
+F. Faruk et al., "RenSeg: Leveraging Unsupervised Segmentation Using Localization and Contour-Guided Quickshift for Renal Calculi and Carcinoma Segmentation and Classification," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2025.3629580.
+keywords: {Kidney;Image segmentation;Accuracy;Kidney stones;Diseases;Tumors;Computed tomography;Transformers;Bioinformatics;Annotations;Calculi;carcinoma;classification;IoU;renal;segmentation},
+
+
+BibTeX:
+@ARTICLE{11286221,
+  author={Faruk, Farhan and Alam, H. M. Sarwer and Rahman, Rafeed and Alam, Md. Golam Rabiul and Jeong, Junho and Hossain, Md. Kabir and Uddin, Jia},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={RenSeg: Leveraging Unsupervised Segmentation Using Localization and Contour-Guided Quickshift for Renal Calculi and Carcinoma Segmentation and Classification}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Kidney;Image segmentation;Accuracy;Kidney stones;Diseases;Tumors;Computed tomography;Transformers;Bioinformatics;Annotations;Calculi;carcinoma;classification;IoU;renal;segmentation},
+  doi={10.1109/JBHI.2025.3629580}}
+
+
 
